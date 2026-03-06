@@ -1,2 +1,3 @@
-import 'dotenv/config'; // to properly read env variables
+// index.js just a starting point
+import 'dotenv/config';
 import './server.js';
